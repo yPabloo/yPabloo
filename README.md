@@ -1,6 +1,6 @@
 ### Olá!! eu sou o Pablo Freire
 
-- 🌱 Estou estudando JavaScript, CSS e HTML
+- 🌱 Estou estudando Python, JavaScript, CSS e HTML.
 - 😄 Pronouns: ele/dele
 
 <div>
