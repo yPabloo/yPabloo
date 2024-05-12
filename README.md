@@ -1,7 +1,6 @@
 ### Olá!! eu sou o Pablo Freire
 
-- 🌱 Estou estudando Python, JavaScript, CSS e HTML.
-- 😄 Pronouns: ele/dele
+- 🌱 Estou estudando React e aplicando o conhecimento em projetos reais.
 
 <div>
   <a href="https://github.com/yPabloo">
