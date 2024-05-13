@@ -1,6 +1,7 @@
 ### Olá!! eu sou o Pablo Freire 😁
 
 • 🌱 Estou estudando React e aplicando o conhecimento em projetos reais.
+
 • 🌐 Sou Diretor de Desenvolvimento Organizacional e Humano da Liga Acadêmica de Desenvolvimento Web [(LAWD)](https://github.com/Lawd-UFS)
 
 <div>
