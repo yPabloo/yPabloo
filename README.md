@@ -6,11 +6,7 @@
 
 • 🌐 Membro Fundador da Liga Acadêmica de Desenvolvimento Web [(LAWD)](https://github.com/Lawd-UFS)
 
-<div>
-  <a href="https://github.com/yPabloo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yPabloo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yPabloo&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+• 🚕 Coordenador de TI da Superintendência Municipal de Transportes e Trânsito (SMTT) de Nossa Senhora do Socorro.
 
 ### O que eu uso:
 
